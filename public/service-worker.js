@@ -3,12 +3,7 @@ const VERSION = "version_01";
 const CACHE_NAME = APP_PREFIX + VERSION;
 
 const FILES_TO_CACHE = [
-  "./",
-  "./index.html",
-  "models/transaction.js",
-  "public/js/index.js",
-  "public/css/styles.css",
-  "routes/api.js",
+  "./index.html"
 ];
 
 // Service Worker Installation
