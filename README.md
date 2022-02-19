@@ -6,6 +6,8 @@ A progressive web app with the ability to track a user's expenses over time. The
 
 ## Screenshots
 
+![budgeted-expenses](screenshot1.png)
+
 
 ### Link to deployed app
 https://thawing-river-03812.herokuapp.com/
